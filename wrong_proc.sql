@@ -1,0 +1,4 @@
+CREATE PROCEDURE myproc 
+BEGIN
+
+SELECT 1;
