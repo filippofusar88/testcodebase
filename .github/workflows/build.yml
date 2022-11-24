@@ -3,9 +3,9 @@ on:
   # a pull request.
   push:
     branches:
-      - master
-  pull_request:
-      types: [opened, synchronize, reopened]
+      - main
+  #pull_request:
+  #   types: [opened, synchronize, reopened]
 name: Main Workflow
 jobs:
   sonarcloud:
