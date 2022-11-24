@@ -1,2 +1,2 @@
 
-SELECT * FROM dbo.MyTable;
+SELECT * FROM
